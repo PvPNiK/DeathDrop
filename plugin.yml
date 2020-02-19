@@ -1,0 +1,8 @@
+name: DeathDrop
+version: 2.0
+main: me.PvPNiK.deathDrop.DeathDrop
+
+commands:
+  deathdrop:
+    description: Shows all the plugin's commands
+    aliases: [dd]
